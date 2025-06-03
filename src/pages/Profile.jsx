@@ -65,7 +65,7 @@ function Profile({ data }) {
           />
 
           <p className="text-secondary mb-4" style={{ fontSize: "14px" }}>
-            I choose the {data.course} track because I love solving visual problems using UI/UX designs.
+            I choose the {data.course} track because I love solving problems and also to build new web applications .
           </p>
 
         
